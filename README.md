@@ -1,0 +1,1 @@
+Allwinner RISC co-processor (ARISC) admin module
